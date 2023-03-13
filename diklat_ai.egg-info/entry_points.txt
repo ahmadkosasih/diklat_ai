@@ -1,0 +1,2 @@
+[console_scripts]
+diklat_ai_kosasaih = diklat_ai_kosasih.main:welcome

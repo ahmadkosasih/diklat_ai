@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+diklat_ai_kosasih/__init__.py
+diklat_ai_kosasih/main.py
+diklat_ai_kosasih.egg-info/PKG-INFO
+diklat_ai_kosasih.egg-info/SOURCES.txt
+diklat_ai_kosasih.egg-info/dependency_links.txt
+diklat_ai_kosasih.egg-info/entry_points.txt
+diklat_ai_kosasih.egg-info/requires.txt
+diklat_ai_kosasih.egg-info/top_level.txt

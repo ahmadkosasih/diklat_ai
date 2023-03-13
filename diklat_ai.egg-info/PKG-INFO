@@ -1,0 +1,37 @@
+Metadata-Version: 2.1
+Name: diklat-ai
+Version: 0.1
+Summary: An Diklat AI package
+Home-page: https://github.com/ahmadkosasih/diklat_ai
+Author: Ahmad Kosasih
+Author-email: ahmad.kosasih@big.go.id
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# diklat_ai Package
+A helper pip package for diklat_ai
+
+### Assumptions:
++ Assuming python is installed on your system.
+
+Installation sets up command
+**************************************
+
+Situation before installation::
+
+    $ diklat_ai
+    bash: diklat_ai: command not found
+
+Installation right from the source tree (or via pip from PyPI)::
+
+    $ python setup.py install
+
+    $ pip install diklat_ai
+
+Now, the ``diklat_ai`` command is available::
+
+    $ diklat_ai
+    Welcome to Diklat AI!
